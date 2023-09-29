@@ -1,0 +1,562 @@
+year_and_quarter,State,Firearm Mortality Per 100K
+2020 Q1,Alabama,21.6
+2020 Q1,Alaska,23.4
+2020 Q1,Arizona,15.7
+2020 Q1,Arkansas,19.5
+2020 Q1,California,7.6
+2020 Q1,Colorado,14.8
+2020 Q1,Connecticut,5.5
+2020 Q1,Delaware,9.8
+2020 Q1,District of Columbia,20.6
+2020 Q1,Florida,13.5
+2020 Q1,Georgia,16.1
+2020 Q1,Hawaii,4
+2020 Q1,Idaho,15.8
+2020 Q1,Illinois,10.9
+2020 Q1,Indiana,14.7
+2020 Q1,Iowa,9.7
+2020 Q1,Kansas,14.3
+2020 Q1,Kentucky,16.2
+2020 Q1,Louisiana,21.7
+2020 Q1,Maine,11.2
+2020 Q1,Maryland,12.3
+2020 Q1,Massachusetts,3.7
+2020 Q1,Michigan,12.7
+2020 Q1,Minnesota,8.4
+2020 Q1,Mississippi,23.1
+2020 Q1,Missouri,20.5
+2020 Q1,Montana,21
+2020 Q1,Nebraska,9.9
+2020 Q1,Nevada,16.1
+2020 Q1,New Hampshire,10.7
+2020 Q1,New Jersey,4.2
+2020 Q1,New Mexico,23
+2020 Q1,New York,4.2
+2020 Q1,North Carolina,13.7
+2020 Q1,North Dakota,12.4
+2020 Q1,Ohio,13.5
+2020 Q1,Oklahoma,19.5
+2020 Q1,Oregon,13
+2020 Q1,Pennsylvania,12.4
+2020 Q1,Rhode Island,4.3
+2020 Q1,South Carolina,19.8
+2020 Q1,South Dakota,12
+2020 Q1,Tennessee,19
+2020 Q1,Texas,12.9
+2020 Q1,Utah,12.1
+2020 Q1,Vermont,11.2
+2020 Q1,Virginia,12.7
+2020 Q1,Washington,11.1
+2020 Q1,West Virginia,17.7
+2020 Q1,Wisconsin,10.7
+2020 Q1,Wyoming,25
+2020 Q2,Alabama,22.5
+2020 Q2,Alaska,23.3
+2020 Q2,Arizona,15.2
+2020 Q2,Arkansas,21.7
+2020 Q2,California,7.7
+2020 Q2,Colorado,15.2
+2020 Q2,Connecticut,5.4
+2020 Q2,Delaware,11.5
+2020 Q2,District of Columbia,21.5
+2020 Q2,Florida,13.4
+2020 Q2,Georgia,16.2
+2020 Q2,Hawaii,3.7
+2020 Q2,Idaho,16.3
+2020 Q2,Illinois,11.9
+2020 Q2,Indiana,15
+2020 Q2,Iowa,10.2
+2020 Q2,Kansas,15.2
+2020 Q2,Kentucky,16.3
+2020 Q2,Louisiana,21.8
+2020 Q2,Maine,11
+2020 Q2,Maryland,13
+2020 Q2,Massachusetts,3.8
+2020 Q2,Michigan,12.8
+2020 Q2,Minnesota,8.5
+2020 Q2,Mississippi,23.8
+2020 Q2,Missouri,21.3
+2020 Q2,Montana,22.6
+2020 Q2,Nebraska,9.2
+2020 Q2,Nevada,16.1
+2020 Q2,New Hampshire,9.7
+2020 Q2,New Jersey,4.4
+2020 Q2,New Mexico,22.5
+2020 Q2,New York,4.6
+2020 Q2,North Carolina,14.2
+2020 Q2,North Dakota,11.2
+2020 Q2,Ohio,13.7
+2020 Q2,Oklahoma,20.4
+2020 Q2,Oregon,13
+2020 Q2,Pennsylvania,12.5
+2020 Q2,Rhode Island,4.3
+2020 Q2,South Carolina,20.6
+2020 Q2,South Dakota,11.9
+2020 Q2,Tennessee,19
+2020 Q2,Texas,13.3
+2020 Q2,Utah,12.8
+2020 Q2,Vermont,11.5
+2020 Q2,Virginia,12.5
+2020 Q2,Washington,11.2
+2020 Q2,West Virginia,17.5
+2020 Q2,Wisconsin,10.9
+2020 Q2,Wyoming,26
+2020 Q3,Alabama,22.8
+2020 Q3,Alaska,25.3
+2020 Q3,Arizona,16.2
+2020 Q3,Arkansas,21.2
+2020 Q3,California,8
+2020 Q3,Colorado,16
+2020 Q3,Connecticut,5.7
+2020 Q3,Delaware,12.6
+2020 Q3,District of Columbia,21.9
+2020 Q3,Florida,13.9
+2020 Q3,Georgia,16.8
+2020 Q3,Hawaii,3.9
+2020 Q3,Idaho,16.7
+2020 Q3,Illinois,13.1
+2020 Q3,Indiana,16.2
+2020 Q3,Iowa,11.3
+2020 Q3,Kansas,16.1
+2020 Q3,Kentucky,18.2
+2020 Q3,Louisiana,23.7
+2020 Q3,Maine,11.6
+2020 Q3,Maryland,12.8
+2020 Q3,Massachusetts,4
+2020 Q3,Michigan,13.4
+2020 Q3,Minnesota,8.6
+2020 Q3,Mississippi,25.8
+2020 Q3,Missouri,22.6
+2020 Q3,Montana,22
+2020 Q3,Nebraska,9.3
+2020 Q3,Nevada,16.7
+2020 Q3,New Hampshire,9.4
+2020 Q3,New Jersey,4.8
+2020 Q3,New Mexico,22.4
+2020 Q3,New York,5.3
+2020 Q3,North Carolina,15
+2020 Q3,North Dakota,12
+2020 Q3,Ohio,14.6
+2020 Q3,Oklahoma,20.1
+2020 Q3,Oregon,12.9
+2020 Q3,Pennsylvania,13.1
+2020 Q3,Rhode Island,4.4
+2020 Q3,South Carolina,21.3
+2020 Q3,South Dakota,12.3
+2020 Q3,Tennessee,20
+2020 Q3,Texas,13.6
+2020 Q3,Utah,12.9
+2020 Q3,Vermont,11.5
+2020 Q3,Virginia,13.1
+2020 Q3,Washington,11.3
+2020 Q3,West Virginia,16.3
+2020 Q3,Wisconsin,11.8
+2020 Q3,Wyoming,28.7
+2020 Q4,Alabama,23.2
+2020 Q4,Alaska,23.9
+2020 Q4,Arizona,17
+2020 Q4,Arkansas,22.2
+2020 Q4,California,8.8
+2020 Q4,Colorado,15.9
+2020 Q4,Connecticut,6.2
+2020 Q4,Delaware,13.7
+2020 Q4,District of Columbia,23.4
+2020 Q4,Florida,14
+2020 Q4,Georgia,17.7
+2020 Q4,Hawaii,3.6
+2020 Q4,Idaho,17.6
+2020 Q4,Illinois,13.9
+2020 Q4,Indiana,17.2
+2020 Q4,Iowa,11.1
+2020 Q4,Kansas,17
+2020 Q4,Kentucky,20.1
+2020 Q4,Louisiana,25.5
+2020 Q4,Maine,11.3
+2020 Q4,Maryland,13.3
+2020 Q4,Massachusetts,3.9
+2020 Q4,Michigan,14.6
+2020 Q4,Minnesota,9.1
+2020 Q4,Mississippi,27.6
+2020 Q4,Missouri,23.2
+2020 Q4,Montana,22
+2020 Q4,Nebraska,10.2
+2020 Q4,Nevada,17.4
+2020 Q4,New Hampshire,9.4
+2020 Q4,New Jersey,5
+2020 Q4,New Mexico,22.7
+2020 Q4,New York,5.4
+2020 Q4,North Carolina,16
+2020 Q4,North Dakota,13.1
+2020 Q4,Ohio,15.1
+2020 Q4,Oklahoma,20.7
+2020 Q4,Oregon,14
+2020 Q4,Pennsylvania,13.7
+2020 Q4,Rhode Island,5.1
+2020 Q4,South Carolina,21.7
+2020 Q4,South Dakota,13.4
+2020 Q4,Tennessee,21.4
+2020 Q4,Texas,14.2
+2020 Q4,Utah,13.2
+2020 Q4,Vermont,12.2
+2020 Q4,Virginia,13.7
+2020 Q4,Washington,11.2
+2020 Q4,West Virginia,18.2
+2020 Q4,Wisconsin,12.3
+2020 Q4,Wyoming,26.4
+2021 Q1,Alabama,24.2
+2021 Q1,Alaska,23.1
+2021 Q1,Arizona,17.1
+2021 Q1,Arkansas,22.6
+2021 Q1,California,9
+2021 Q1,Colorado,16.7
+2021 Q1,Connecticut,6.3
+2021 Q1,Delaware,13.9
+2021 Q1,District of Columbia,23.7
+2021 Q1,Florida,14.1
+2021 Q1,Georgia,18.3
+2021 Q1,Hawaii,4
+2021 Q1,Idaho,17.5
+2021 Q1,Illinois,14.6
+2021 Q1,Indiana,17.6
+2021 Q1,Iowa,10.9
+2021 Q1,Kansas,17.4
+2021 Q1,Kentucky,20.9
+2021 Q1,Louisiana,27.4
+2021 Q1,Maine,11.5
+2021 Q1,Maryland,14.1
+2021 Q1,Massachusetts,3.8
+2021 Q1,Michigan,14.9
+2021 Q1,Minnesota,9.3
+2021 Q1,Mississippi,29.5
+2021 Q1,Missouri,24
+2021 Q1,Montana,21.8
+2021 Q1,Nebraska,11
+2021 Q1,Nevada,18.6
+2021 Q1,New Hampshire,9.9
+2021 Q1,New Jersey,4.9
+2021 Q1,New Mexico,23.6
+2021 Q1,New York,5.6
+2021 Q1,North Carolina,16.2
+2021 Q1,North Dakota,14.5
+2021 Q1,Ohio,15.6
+2021 Q1,Oklahoma,20.7
+2021 Q1,Oregon,15.2
+2021 Q1,Pennsylvania,14
+2021 Q1,Rhode Island,5.5
+2021 Q1,South Carolina,21.3
+2021 Q1,South Dakota,15.2
+2021 Q1,Tennessee,22.2
+2021 Q1,Texas,14.5
+2021 Q1,Utah,13.4
+2021 Q1,Vermont,12.5
+2021 Q1,Virginia,13.4
+2021 Q1,Washington,11
+2021 Q1,West Virginia,17.8
+2021 Q1,Wisconsin,12.3
+2021 Q1,Wyoming,25.2
+2021 Q2,Alabama,24.8
+2021 Q2,Alaska,25.1
+2021 Q2,Arizona,18.3
+2021 Q2,Arkansas,22.9
+2021 Q2,California,9.3
+2021 Q2,Colorado,17.3
+2021 Q2,Connecticut,7
+2021 Q2,Delaware,15.4
+2021 Q2,District of Columbia,24.7
+2021 Q2,Florida,14.5
+2021 Q2,Georgia,19.3
+2021 Q2,Hawaii,4.7
+2021 Q2,Idaho,16.5
+2021 Q2,Illinois,14.4
+2021 Q2,Indiana,17.9
+2021 Q2,Iowa,10.9
+2021 Q2,Kansas,16.9
+2021 Q2,Kentucky,21.8
+2021 Q2,Louisiana,28.9
+2021 Q2,Maine,12.5
+2021 Q2,Maryland,14.3
+2021 Q2,Massachusetts,3.5
+2021 Q2,Michigan,15.5
+2021 Q2,Minnesota,9.6
+2021 Q2,Mississippi,30.9
+2021 Q2,Missouri,23.9
+2021 Q2,Montana,22.1
+2021 Q2,Nebraska,10.7
+2021 Q2,Nevada,19.3
+2021 Q2,New Hampshire,10.2
+2021 Q2,New Jersey,4.9
+2021 Q2,New Mexico,25.5
+2021 Q2,New York,5.5
+2021 Q2,North Carolina,17.1
+2021 Q2,North Dakota,14.8
+2021 Q2,Ohio,16
+2021 Q2,Oklahoma,20.5
+2021 Q2,Oregon,15.3
+2021 Q2,Pennsylvania,14.3
+2021 Q2,Rhode Island,6.1
+2021 Q2,South Carolina,21.8
+2021 Q2,South Dakota,15.4
+2021 Q2,Tennessee,22.6
+2021 Q2,Texas,15.1
+2021 Q2,Utah,13.6
+2021 Q2,Vermont,12
+2021 Q2,Virginia,13.9
+2021 Q2,Washington,10.7
+2021 Q2,West Virginia,18.2
+2021 Q2,Wisconsin,12.8
+2021 Q2,Wyoming,24.7
+2021 Q3,Alabama,25.4
+2021 Q3,Alaska,24.4
+2021 Q3,Arizona,18.4
+2021 Q3,Arkansas,22.7
+2021 Q3,California,9.3
+2021 Q3,Colorado,16.7
+2021 Q3,Connecticut,7.3
+2021 Q3,Delaware,15.9
+2021 Q3,District of Columbia,26.5
+2021 Q3,Florida,14.3
+2021 Q3,Georgia,20
+2021 Q3,Hawaii,5.1
+2021 Q3,Idaho,17.1
+2021 Q3,Illinois,15
+2021 Q3,Indiana,18.2
+2021 Q3,Iowa,10.9
+2021 Q3,Kansas,17.7
+2021 Q3,Kentucky,21.9
+2021 Q3,Louisiana,29
+2021 Q3,Maine,13
+2021 Q3,Maryland,14.9
+2021 Q3,Massachusetts,3.3
+2021 Q3,Michigan,16
+2021 Q3,Minnesota,10
+2021 Q3,Mississippi,33
+2021 Q3,Missouri,23.1
+2021 Q3,Montana,23.3
+2021 Q3,Nebraska,10.1
+2021 Q3,Nevada,20.5
+2021 Q3,New Hampshire,9
+2021 Q3,New Jersey,5
+2021 Q3,New Mexico,26.1
+2021 Q3,New York,5.3
+2021 Q3,North Carolina,17.2
+2021 Q3,North Dakota,16
+2021 Q3,Ohio,15.9
+2021 Q3,Oklahoma,21.2
+2021 Q3,Oregon,15.5
+2021 Q3,Pennsylvania,14.4
+2021 Q3,Rhode Island,6.4
+2021 Q3,South Carolina,21.8
+2021 Q3,South Dakota,14.1
+2021 Q3,Tennessee,22.7
+2021 Q3,Texas,15.3
+2021 Q3,Utah,14.3
+2021 Q3,Vermont,12.7
+2021 Q3,Virginia,13.7
+2021 Q3,Washington,11.2
+2021 Q3,West Virginia,18.4
+2021 Q3,Wisconsin,13.1
+2021 Q3,Wyoming,23.9
+2021 Q4,Alabama,26.1
+2021 Q4,Alaska,24.8
+2021 Q4,Arizona,18.8
+2021 Q4,Arkansas,23.1
+2021 Q4,California,9.1
+2021 Q4,Colorado,18.3
+2021 Q4,Connecticut,6.9
+2021 Q4,Delaware,15.7
+2021 Q4,District of Columbia,27.6
+2021 Q4,Florida,14.4
+2021 Q4,Georgia,20.4
+2021 Q4,Hawaii,4.9
+2021 Q4,Idaho,16.3
+2021 Q4,Illinois,15.7
+2021 Q4,Indiana,18.4
+2021 Q4,Iowa,11.4
+2021 Q4,Kansas,17.1
+2021 Q4,Kentucky,21
+2021 Q4,Louisiana,28.4
+2021 Q4,Maine,13
+2021 Q4,Maryland,14.8
+2021 Q4,Massachusetts,3.5
+2021 Q4,Michigan,15.4
+2021 Q4,Minnesota,10
+2021 Q4,Mississippi,32.6
+2021 Q4,Missouri,22.9
+2021 Q4,Montana,25.4
+2021 Q4,Nebraska,10.2
+2021 Q4,Nevada,20.1
+2021 Q4,New Hampshire,8.9
+2021 Q4,New Jersey,5.1
+2021 Q4,New Mexico,27.3
+2021 Q4,New York,5.4
+2021 Q4,North Carolina,17.4
+2021 Q4,North Dakota,16.5
+2021 Q4,Ohio,16.2
+2021 Q4,Oklahoma,21
+2021 Q4,Oregon,15.8
+2021 Q4,Pennsylvania,14.7
+2021 Q4,Rhode Island,5.8
+2021 Q4,South Carolina,21.9
+2021 Q4,South Dakota,14.3
+2021 Q4,Tennessee,22.5
+2021 Q4,Texas,15.6
+2021 Q4,Utah,13.5
+2021 Q4,Vermont,12.9
+2021 Q4,Virginia,14.4
+2021 Q4,Washington,11.6
+2021 Q4,West Virginia,17.9
+2021 Q4,Wisconsin,13.5
+2021 Q4,Wyoming,26.8
+2022 Q1,Alabama,25.3
+2022 Q1,Alaska,25.7
+2022 Q1,Arizona,19.3
+2022 Q1,Arkansas,22.1
+2022 Q1,California,9.1
+2022 Q1,Colorado,17.6
+2022 Q1,Connecticut,7.3
+2022 Q1,Delaware,15.8
+2022 Q1,District of Columbia,26.7
+2022 Q1,Florida,14.3
+2022 Q1,Georgia,20.7
+2022 Q1,Hawaii,5
+2022 Q1,Idaho,16.2
+2022 Q1,Illinois,15.6
+2022 Q1,Indiana,18
+2022 Q1,Iowa,11.3
+2022 Q1,Kansas,18
+2022 Q1,Kentucky,20.5
+2022 Q1,Louisiana,28.5
+2022 Q1,Maine,12.6
+2022 Q1,Maryland,14.6
+2022 Q1,Massachusetts,3.7
+2022 Q1,Michigan,15.6
+2022 Q1,Minnesota,10.1
+2022 Q1,Mississippi,32.3
+2022 Q1,Missouri,23.3
+2022 Q1,Montana,25.5
+2022 Q1,Nebraska,10.3
+2022 Q1,Nevada,19.5
+2022 Q1,New Hampshire,8.7
+2022 Q1,New Jersey,5.5
+2022 Q1,New Mexico,27.5
+2022 Q1,New York,5.6
+2022 Q1,North Carolina,17.4
+2022 Q1,North Dakota,16.4
+2022 Q1,Ohio,16.3
+2022 Q1,Oklahoma,20.5
+2022 Q1,Oregon,15.5
+2022 Q1,Pennsylvania,15.2
+2022 Q1,Rhode Island,5.5
+2022 Q1,South Carolina,21.5
+2022 Q1,South Dakota,14.7
+2022 Q1,Tennessee,22.2
+2022 Q1,Texas,15.9
+2022 Q1,Utah,12.9
+2022 Q1,Vermont,13
+2022 Q1,Virginia,15
+2022 Q1,Washington,12.3
+2022 Q1,West Virginia,17.4
+2022 Q1,Wisconsin,14.5
+2022 Q1,Wyoming,27.1
+2022 Q2,Alabama,25.2
+2022 Q2,Alaska,23.6
+2022 Q2,Arizona,20.5
+2022 Q2,Arkansas,21.7
+2022 Q2,California,9
+2022 Q2,Colorado,17.3
+2022 Q2,Connecticut,7.1
+2022 Q2,Delaware,14
+2022 Q2,District of Columbia,28.5
+2022 Q2,Florida,14.7
+2022 Q2,Georgia,20.5
+2022 Q2,Hawaii,4.7
+2022 Q2,Idaho,17.6
+2022 Q2,Illinois,15.4
+2022 Q2,Indiana,18.5
+2022 Q2,Iowa,11.1
+2022 Q2,Kansas,18.2
+2022 Q2,Kentucky,19.8
+2022 Q2,Louisiana,28.8
+2022 Q2,Maine,12.5
+2022 Q2,Maryland,14.1
+2022 Q2,Massachusetts,3.8
+2022 Q2,Michigan,15.5
+2022 Q2,Minnesota,10.5
+2022 Q2,Mississippi,31.1
+2022 Q2,Missouri,23.7
+2022 Q2,Montana,24.1
+2022 Q2,Nebraska,11.3
+2022 Q2,Nevada,19.8
+2022 Q2,New Hampshire,9.3
+2022 Q2,New Jersey,5.4
+2022 Q2,New Mexico,27.1
+2022 Q2,New York,5.6
+2022 Q2,North Carolina,17.2
+2022 Q2,North Dakota,15.9
+2022 Q2,Ohio,16.2
+2022 Q2,Oklahoma,20.2
+2022 Q2,Oregon,15.6
+2022 Q2,Pennsylvania,15.4
+2022 Q2,Rhode Island,4.6
+2022 Q2,South Carolina,21.6
+2022 Q2,South Dakota,14.9
+2022 Q2,Tennessee,22.4
+2022 Q2,Texas,16.1
+2022 Q2,Utah,12.5
+2022 Q2,Vermont,14.1
+2022 Q2,Virginia,15.2
+2022 Q2,Washington,12.9
+2022 Q2,West Virginia,17.7
+2022 Q2,Wisconsin,14.5
+2022 Q2,Wyoming,27.1
+2022 Q3,Alabama,25.6
+2022 Q3,Alaska,23.3
+2022 Q3,Arizona,20.9
+2022 Q3,Arkansas,22.4
+2022 Q3,California,9.1
+2022 Q3,Colorado,17.8
+2022 Q3,Connecticut,6.8
+2022 Q3,Delaware,12.6
+2022 Q3,District of Columbia,26.9
+2022 Q3,Florida,14.7
+2022 Q3,Georgia,19.7
+2022 Q3,Hawaii,4.3
+2022 Q3,Idaho,16.6
+2022 Q3,Illinois,14.7
+2022 Q3,Indiana,17.9
+2022 Q3,Iowa,10.9
+2022 Q3,Kansas,17.5
+2022 Q3,Kentucky,18.6
+2022 Q3,Louisiana,27.4
+2022 Q3,Maine,11.8
+2022 Q3,Maryland,13.5
+2022 Q3,Massachusetts,3.9
+2022 Q3,Michigan,15
+2022 Q3,Minnesota,10.3
+2022 Q3,Mississippi,28.4
+2022 Q3,Missouri,23.8
+2022 Q3,Montana,24.2
+2022 Q3,Nebraska,12.5
+2022 Q3,Nevada,19.2
+2022 Q3,New Hampshire,10.3
+2022 Q3,New Jersey,5.3
+2022 Q3,New Mexico,27.9
+2022 Q3,New York,5.5
+2022 Q3,North Carolina,17.3
+2022 Q3,North Dakota,15.8
+2022 Q3,Ohio,15.9
+2022 Q3,Oklahoma,19.8
+2022 Q3,Oregon,15.9
+2022 Q3,Pennsylvania,15.6
+2022 Q3,Rhode Island,3.7
+2022 Q3,South Carolina,21.3
+2022 Q3,South Dakota,16.7
+2022 Q3,Tennessee,21.6
+2022 Q3,Texas,16.1
+2022 Q3,Utah,12.4
+2022 Q3,Vermont,13.4
+2022 Q3,Virginia,15.3
+2022 Q3,Washington,13
+2022 Q3,West Virginia,17.9
+2022 Q3,Wisconsin,14.5
+2022 Q3,Wyoming,23.6
