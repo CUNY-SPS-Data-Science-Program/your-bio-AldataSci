@@ -1,0 +1,91 @@
+---
+title: "Untitled"
+author: "Al Haque"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+# story 7
+This is the seventh and final story of my homework assignment..
+
+```{r}
+library(tidyverse)
+
+ddata <- read.csv("C:\\Users\\Al Haque\\OneDrive\\Desktop\\Data 608\\Minerals.csv")
+
+ddata
+```
+
+```{r}
+ddata$Net.Import.Reliance.as.Percentage.of.Consumption <- str_replace(ddata$Net.Import.Reliance.as.Percentage.of.Consumption,"\\%","")
+```
+
+
+```{r}
+ddata$Net.Import.Reliance.as.Percentage.of.Consumption <- as.numeric(ddata$Net.Import.Reliance.as.Percentage.of.Consumption)
+```
+
+
+```{r}
+ddata
+```
+
+```{r}
+## Thank you Thank you R.. 
+ggplot(ddata,aes(y = Mineral,x = Net.Import.Reliance.as.Percentage.of.Consumption)) +
+  geom_bar(stat = "identity")
+```
+```{r}
+## Yay.. 
+ggplot(ddata,aes(y = reorder(Mineral,Net.Import.Reliance.as.Percentage.of.Consumption), x = Net.Import.Reliance.as.Percentage.of.Consumption, fill = Primary.Import.Source)) + geom_bar(stat = "identity",width = 0.7,position = position_dodge(width = 0.8))
+```
+
+```{r}
+df1 <- df %>%
+  arrange(desc(average_sales))
+ggplot(df1,aes(x = reorder(restaurant,average_sales), y = average_sales)) + geom_bar(stat = "identity") + scale_y_continuous(labels = scales::dollar_format()) + coord_flip() + theme_classic() + geom_text(aes(label = round(average_sales,0)),hjust = -.001) +
+labs(y = "Average Sales per unit (In Thousands)", x = "Restaurant")
+```
+
+```{r}
+ggplot(ddata,aes(y = Mineral, x = Net.Import.Reliance.as.Percentage.of.Consumption, fill = Primary.Import.Source)) + geom_bar(stat = "identity",position = position_dodge())
+```
+
+
+##WHat if I make 3 seperate bar chart that categorizes a country as ally, a competitor or a neutral party.. 
+
+```{r}
+Enemydata <- ddata %>%
+  filter(Primary.Import.Source == "China" | Primary.Import.Source == "Russia")
+
+ggplot(Enemydata,aes(y = reorder(Mineral,Net.Import.Reliance.as.Percentage.of.Consumption),x = Net.Import.Reliance.as.Percentage.of.Consumption,fill = Primary.Import.Source)) +
+  geom_bar(stat = "identity") + labs(title = "Mineral Tensions: China's Impact on U.S Dependencies",x = "Net Import Reliance",y = "Mineral",fill = "Country",subtitle = "Barriers and Bonds: Visualizing China's Impact on U.S Mineral Imports") + theme_bw() + scale_fill_manual(values = c("#7570b3","#d95f02")) + theme(
+    plot.title = element_text(size = 16, face = "bold"),     # Adjust title font size
+    plot.subtitle = element_text(size = 12)  # Adjust subtitle font size
+  )
+
+```
+
+```{r}
+Allydata <- ddata %>%
+  filter(Primary.Import.Source == "Australia" | Primary.Import.Source == "Brazil" | Primary.Import.Source == "Indonesia" | Primary.Import.Source == "Canada" | Primary.Import.Source == "Israel" | Primary.Import.Source == "Korea" | Primary.Import.Source == "Peru" | Primary.Import.Source == "Norway" | Primary.Import.Source == "Argentina" | Primary.Import.Source == "Mexico" | Primary.Import.Source == "Europe" | Primary.Import.Source == "Jamaica" | Primary.Import.Source == "Japan")
+
+
+ggplot(Allydata,aes(y = reorder(Mineral,Net.Import.Reliance.as.Percentage.of.Consumption),x = Net.Import.Reliance.as.Percentage.of.Consumption,fill = Primary.Import.Source)) +
+  geom_bar(stat = "identity") + labs(title = "Allied Resources: U.S. Mineral Imports from Trusted Partners",subtitle = "Strength in Bonds: Charting U.S. Mineral Dependencies with Trusted Allies",x = "Net Import Reliance",y = "Mineral",fill = "Country", font = 16) + scale_fill_manual(values = c("#8dd3c7","#ffffb3","#bebada","#fb8072","#80b1d3","#fdb462","#b3de69","#fccde5","#d9d9d9","#bc80bd","#ccebc5")) + theme_bw() + theme(
+    plot.title = element_text(size = 14, face = "bold"),     # Adjust title font size
+    plot.subtitle = element_text(size = 12)  # Adjust subtitle font size
+  )
+```
+
+```{r}
+Neutrald <- ddata %>%
+  filter(Primary.Import.Source == "South Africa" | Primary.Import.Source == "Gabon" )
+
+ggplot(Neutrald,aes(y = reorder(Mineral,Net.Import.Reliance.as.Percentage.of.Consumption),x = Net.Import.Reliance.as.Percentage.of.Consumption,fill = Primary.Import.Source)) +
+  geom_bar(stat = "identity") +  labs(title = "U.S. Mineral Dependencies with Neutral Nations",subtitle = "Balancing Act: Navigating U.S Mineral Imports", x = "Net Import Reliance",y = "Mineral",fill = "Country", font = 16) + scale_fill_manual(values = c("#e41a1c", "#377eb8")) + theme(
+    plot.title = element_text(size = 15, face = "bold"),     # Adjust title font size
+    plot.subtitle = element_text(size = 12)  # Adjust subtitle font size
+  )
+```
+
